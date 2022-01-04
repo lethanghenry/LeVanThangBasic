@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ref\ValueTypeAndReferrenceType.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\bin\Debug\net5.0\ValueTypeAndReferrenceType.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.csproj.AssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ref\ValueTypeAndReferrenceType.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ValueTypeAndReferrenceType\obj\Debug\net5.0\ValueTypeAndReferrenceType.genruntimeconfig.cache

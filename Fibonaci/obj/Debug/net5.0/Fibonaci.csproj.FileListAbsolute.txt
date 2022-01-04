@@ -1,0 +1,15 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\ref\Fibonaci.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\bin\Debug\net5.0\Fibonaci.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\ref\Fibonaci.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Fibonaci\obj\Debug\net5.0\Fibonaci.genruntimeconfig.cache

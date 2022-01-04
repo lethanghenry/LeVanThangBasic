@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\ref\PhanSo.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\bin\Debug\net5.0\PhanSo.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.csproj.AssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\ref\PhanSo.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhanSo\obj\Debug\net5.0\PhanSo.genruntimeconfig.cache

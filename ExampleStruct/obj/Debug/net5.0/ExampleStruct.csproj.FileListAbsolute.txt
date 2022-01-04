@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.csproj.AssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ref\ExampleStruct.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\bin\Debug\net5.0\ExampleStruct.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ref\ExampleStruct.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\ExampleStruct\obj\Debug\net5.0\ExampleStruct.genruntimeconfig.cache

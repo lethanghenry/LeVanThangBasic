@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\ref\PhuongTrinhBacHai.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\ref\PhuongTrinhBacHai.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.genruntimeconfig.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.csproj.AssemblyReference.cache

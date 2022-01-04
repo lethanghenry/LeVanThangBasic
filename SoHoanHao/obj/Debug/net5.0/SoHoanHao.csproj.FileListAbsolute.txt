@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\ref\SoHoanHao.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\bin\Debug\net5.0\SoHoanHao.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\ref\SoHoanHao.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.genruntimeconfig.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\SoHoanHao\obj\Debug\net5.0\SoHoanHao.csproj.AssemblyReference.cache
